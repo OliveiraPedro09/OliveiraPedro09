@@ -24,5 +24,5 @@ E nas horas vagas eu toco violão. 🎸
 
 ## Tecnologias Usadas no dia a dia
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,linux,python,docker,figma,aws,bootstrap,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,linux,python,docker,figma,aws,bootstrap,mysql,react,typescript)](https://skillicons.dev)
 
