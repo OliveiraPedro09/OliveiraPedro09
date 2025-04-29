@@ -30,16 +30,15 @@
 
 ###
 
-<h2 align="left"> Socials 🙋‍♂️ </h2>
+<h2 align="left">🌍 Socials</h2>
 
 ###
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedromartins0789/)
-  [![Stack](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22464903/pedro-martins-de-oliveira)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrooliv9/)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pedrinhojrb?si=e05adad86b3444e7)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/373826185492430855)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromartinsoliveira9@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedrooliv9/)
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22464903/pedro-martins-de-oliveira)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedromartinsoliveira9@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedromartins0789/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/373826185492430855)
 
 ###
 
