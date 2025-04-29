@@ -1,15 +1,36 @@
-<h2 align="left"> 👺 Hallo Zusammen!!! Ich bin Pedro aus Brasilien👺</h2>
+<h2 align="left">👨‍💻 Hi, I'm Pedro</h2>
+<h4 align="left">"Turning coffee into code since 2023"</h4>
+
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        I'm a curious and passionate student currently pursuing a degree in <strong>Multiplatform Software Development</strong> at <strong>FATEC-SJC</strong> 🎓.<br /><br />
+        Currently working at <strong>DBSnoop</strong>, I'm exploring <strong>DevOps</strong> and <strong>C#</strong> to strengthen my backend and infrastructure skills 💻🔥.<br /><br />
+        Outside tech, I love languages — fluent in <strong>English</strong> 🇬🇧, intermediate in <strong>German</strong> 🇩🇪, and learning <strong>French</strong> 🇫🇷. Also into music 🎵, cars 🏎️, and gaming 🎮.<br /><br />
+        Always open to learning and building meaningful things. Let's grow together!
+      </p>
+    </td>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/fdc9cd0a-b622-428e-a76d-50749f85fb0e" 
+        alt="Pedro's photo" 
+        style="border-radius: 12px; max-width: 300px;" 
+      />
+    </td>
+  </tr>
+</table>
+
 
 ###
-
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=OliveiraPedro09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraPedro09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OliveiraPedro09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&border_radius=12" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraPedro09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&border_radius=12" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left"> Contact Me !!! 🥷 </h2>
+<h2 align="left"> Socials 🙋‍♂️ </h2>
 
 ###
 
@@ -22,28 +43,26 @@
 
 ###
 
-<h2 align="left">  About Me 🦹</h2>
-
-###
-
-<img align="right" height="150" src="https://i.gifer.com/NBoe.gif"  />
-<div align="left">
-  <p>Currently studying Multiplatform Software Development at FATEC-SJC 🥸💻</p>
-  <p>I'm currently learning about DevOps and C# ✏️🔥</p>
-  <p>I love exploring new cultures and languages. I'm fluent in English 🎡 and have an intermediate level of German 🥨</p>
-  <p>Passionate about music and cars 🏎</p>
-  <p>In my free time, I enjoy studying topics that interest me and playing games with my friends 🎲</p>
-</div>
-
-###
-
 <br />
 
-<h2 align="left"> Technologies used in everyday life 🧑‍💻</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,github,vue,nuxt,vuetify,npm,spring,cs,php,react,typescript,threejs,java,bash,powershell,vite,docker,linux,aws,unity,mysql,cassandra,postgresql,discord,gmail,python,figma,ps,bootstrap,blender)](https://skillicons.dev)
+#### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxt,vuetify,npm,react,typescript,threejs,vite,bootstrap)](https://skillicons.dev)
+
+#### **Backend**
+[![My Skills](https://skillicons.dev/icons?i=js,npm,spring,cs,php,typescript,java,python)](https://skillicons.dev)
+
+#### **DevOps & Cloud**
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,powershell,docker,linux,aws)](https://skillicons.dev)
+
+### **Database**
+[![My Skills](https://skillicons.dev/icons?i=mysql,cassandra,postgresql)](https://skillicons.dev)
+
+### **Others**
+[![My Skills](https://skillicons.dev/icons?i=unity,discord,gmail,figma,ps,blender)](https://skillicons.dev)
 
 ###
 
