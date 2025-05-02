@@ -1,77 +1,150 @@
-<h2 align="left">👨‍💻 Hi, I'm Pedro</h2>
-<h4 align="left">"Turning coffee into code since 2023"</h4>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pedro+%F0%9F%91%8B;Software+Developer;ThreeJS+Enthusiast" alt="Typing Animation" />
+</h1>
 
-<table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OliveiraPedro09&label=Profile%20views&color=8A2BE2&style=flat" alt="OliveiraPedro09" /> 
+  <img src="https://img.shields.io/badge/-Turning%20coffee%20into%20code%20since%202023-FF69B4?style=flat" alt="Coffee to Code" />
+</p>
+
+<table align="center">
   <tr>
-    <td width="60%">
-      <p>
-        I'm a curious and passionate student currently pursuing a degree in <strong>Multiplatform Software Development</strong> at <strong>FATEC-SJC</strong> 🎓.<br /><br />
-        Currently working at <strong>DBSnoop</strong>, I'm exploring <strong>DevOps</strong> and <strong>C#</strong> to strengthen my backend and infrastructure skills 💻🔥.<br /><br />
-        Outside tech, I love languages — fluent in <strong>English</strong> 🇬🇧, intermediate in <strong>German</strong> 🇩🇪, and learning <strong>French</strong> 🇫🇷. Also into music 🎵, cars 🏎️, and gaming 🎮.<br /><br />
-        Always open to learning and building meaningful things. Let's grow together!
-      </p>
+    <td width="60%" valign="top">
+      
+### 📌 About Me
+- 🎓 Studying **Multiplatform Software Development** at `FATEC-SJC`
+- 💼 Working at **DBSnoop** | Exploring **DevOps** & **C#** & **Arduino**
+- 🌍 **Polyglot**: Fluent Portuguese 🇧🇷 | Fluent in English 🇬🇧 | Intermediate German 🇩🇪 | Learning French 🇫🇷
+- 🎵 **Hobbies**: Music, Cars 🏎️, Gaming 🎮
+- ✨ **Fun Fact**: I can solve a Rubik's Cube in under 2 minutes!
+
     </td>
-    <td>
+    <td width="40%" align="center">
       <img 
         src="https://github.com/user-attachments/assets/fdc9cd0a-b622-428e-a76d-50749f85fb0e" 
         alt="Pedro's photo" 
-        style="border-radius: 12px; max-width: 300px;" 
+        style="border-radius: 12px; max-width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" 
       />
     </td>
   </tr>
 </table>
 
+---
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliveiraPedro09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&border_radius=12" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OliveiraPedro09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&border_radius=12" height="150" alt="languages graph"  />
+### 📊 GitHub Analytics
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=OliveiraPedro09&theme=radical&hide_border=true&include_all_commits=true&show_icons=true" height="165" alt="Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=OliveiraPedro09&theme=radical&hide_border=true" height="165" alt="Streak Stats" />
+
 </div>
 
-###
+---
 
-<h2 align="left">🌍 Socials</h2>
+### 🛠️ Tech Stack
 
-###
+<details>
+<summary><b>🔧 DevOps & Cloud</b></summary>
+<br>
+  
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,powershell,aws,azure,gcp,grafana,prometheus)](https://skillicons.dev)
+</details>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedrooliv9/)
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22464903/pedro-martins-de-oliveira)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedromartinsoliveira9@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedromartins0789/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/373826185492430855)
+<details>
+<summary><b>💻 Backend</b></summary>
+<br>
+  
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,nodejs,php,flask)](https://skillicons.dev)
+</details>
 
-###
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,html,css,bootstrap,tailwind,sass)](https://skillicons.dev)
+</details>
 
-<br />
+<details>
+<summary><b>🗃️ Databases</b></summary>
+<br>
+  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,cassandra,redis)](https://skillicons.dev)
+</details>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<details>
+<summary><b>🎮 Others</b></summary>
+<br>
+  
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,figma,ps,arduino,raspberrypi)](https://skillicons.dev)
+</details>
 
-###
+### 🌟 Connect With Me
 
-#### **Frontend**
-[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxt,vuetify,npm,react,typescript,threejs,vite,bootstrap)](https://skillicons.dev)
+<div align="center">
 
-#### **Backend**
-[![My Skills](https://skillicons.dev/icons?i=js,npm,spring,cs,php,typescript,java,python)](https://skillicons.dev)
+  <a href="https://www.linkedin.com/in/pedrooliv9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/22464903/pedro-martins-de-oliveira" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&logoWidth=30" alt="Stack Overflow" />
+  </a>
+  
+  <a href="mailto:pedromartinsoliveira9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" />
+  </a>
+  
+  <a href="https://discord.com/users/373826185492430855" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=30" alt="Discord" />
+  </a>
+  
+</div>
 
-#### **DevOps & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,powershell,docker,linux,aws)](https://skillicons.dev)
+<br>
 
-### **Database**
-[![My Skills](https://skillicons.dev/icons?i=mysql,cassandra,postgresql)](https://skillicons.dev)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OliveiraPedro09&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views" />
+</div>
 
-### **Others**
-[![My Skills](https://skillicons.dev/icons?i=unity,discord,gmail,figma,ps,blender)](https://skillicons.dev)
+---
 
-###
+<div align="center">
+  
+  ### 🎧 Vibing Now
+  
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=pedrinhojrb)
+  <br>
+  <sub>🎶 | ⚡ "Code, coffee, repeat."</sub>
+
+  ---
+  
+</div>
 
 
-###
+<div align="center" style="position:relative;">
+  
+  ### 🐍 My GitHub Contributions
+  
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/OliveiraPedro09/OliveiraPedro09/output/github-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/OliveiraPedro09/OliveiraPedro09/output/github-snake.svg"
+    />
+    <img 
+      alt="GitHub Snake Animation" 
+      src="https://raw.githubusercontent.com/OliveiraPedro09/OliveiraPedro09/output/github-snake.svg" 
+      width="100%"
+      style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+    />
+  </picture>
+  
+  <div style="margin-top:8px;">
+    <sub>✨ <i>Every pixel represents a commit!</i> ✨</sub>
+  </div>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OliveiraPedro09/OliveiraPedro09/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliveiraPedro09/OliveiraPedro09/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OliveiraPedro09/OliveiraPedro09/output/github-snake.svg" />
-</picture>
-
-###
