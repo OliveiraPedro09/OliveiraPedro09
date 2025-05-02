@@ -16,7 +16,6 @@
 - 💼 Working at **DBSnoop** | Exploring **DevOps** & **C#** & **Arduino**
 - 🌍 **Polyglot**: Fluent Portuguese 🇧🇷 | Fluent in English 🇬🇧 | Intermediate German 🇩🇪 | Learning French 🇫🇷
 - 🎵 **Hobbies**: Music, Cars 🏎️, Gaming 🎮
-- ✨ **Fun Fact**: I can solve a Rubik's Cube in under 2 minutes!
 
     </td>
     <td width="40%" align="center">
