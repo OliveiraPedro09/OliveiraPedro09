@@ -13,7 +13,7 @@
       
 ### 📌 About Me
 - 🎓 Studying **Multiplatform Software Development** at `FATEC-SJC`
-- 💼 Working at **DBSnoop** | Exploring **DevOps** & **C#** & **Arduino**
+- 💼 Working at **WikiAlphabet** | Exploring **FrontEnd** & **DevOps**
 - 🌍 **Polyglot**: Fluent Portuguese 🇧🇷 | Fluent in English 🇬🇧 | Intermediate German 🇩🇪 | Learning French 🇫🇷
 - 🎵 **Hobbies**: Music, Cars 🏎️, Gaming 🎮
 
