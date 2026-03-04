@@ -4,13 +4,9 @@
 
 ## About Me
 
-Software Developer specializing in **Web Development**, **Backend**, and **Cloud/DevOps**.  
 Studying **Multiplatform Software Development** at *FATEC São José dos Campos*.  
 Currently exploring **Vue**, **TypeScript**, **Java + Spring**, and **Cloud Architecture**.  
 Multilingual: Portuguese 🇧🇷 | English 🇬🇧 | German 🇩🇪 | Learning French 🇫🇷  
-Hobbies: Music, gaming, and technology in general.
-
-
 
 ## Featured Projects
 
