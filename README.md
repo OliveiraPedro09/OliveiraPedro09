@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pedro+%F0%9F%91%8B;Software+Developer;Frontend+%2F+Backend+%2F+DevOps;Always+learning+and+building+great+things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pedro+%F0%9F%91%8B;Software+Developer;Frontend+%2F+Backend+%2F+DevOps;Welcome!!!" />
 </h1>
 
 ## About Me
